@@ -9,7 +9,7 @@ Merhabalar! Bu repoda, Python programlama diline ilişkin geniş kapsamlı ders 
 - Modüller ve Paketler: Modüllerin kullanımı, kendi modüllerimizi nasıl yazabiliriz.
 - Bazı Özel Modüller: sys, os, datetime, regex, urllib, beautifulsoup4, selenium.
 - Nesne Yönelimli Programlama: Sınıflar, nesneler, miras, polimorfizm, UML sınıf diagramları.
-- İleri Seviye Konular: İstisna işleme, dosya işlemleri, veritabanı işlemleri.
+- İleri Seviye Konular: İstisna işleme, dosya işlemleri, veritabanı işlemleri. 
 - Python ile Veri Bilimi: Numpy, Pandas kütüphaneleri ve veri analizi.
 
 ## Katkıda Bulunun
