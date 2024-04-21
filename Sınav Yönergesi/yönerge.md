@@ -1,8 +1,9 @@
 # Sınav ile ilgili bilgilendirme
 
-- Salon listeleri sınav sabahı mail ile iletilecek.
-- Derslerde geldiğimiz kısma kadar sorumlusunuz.
-- Sınava gelirken boş bir USB bellek getirmeniz gerekmektedir.
+- Sınavın birden fazla salonda veya oturumda yapılması durumunda listeler sınav öncesi mail ile iletilecek.
+- Derslerde geldiğimiz kısma kadar sorumlusunuz. Buradaki notlar birden fazla dersi kasadığından konuların takibi sizin sorumluluğunuzdadır.
+- Sınava gelirken boş bir USB bellek getirmeniz gerekmektedir. okuldaki bilgisayarlarda deepfreeze programı olduğundan bilgisayarınızın kapanması durumunda tüm çalışmalarınız kaybolabilir. Bunun için USB üzerinde yedekleme yapmak bir sıkıntı yaşama ihtimaliniz azaltır. Dosyaların sağlam şekilde teslim edilmesi sizin sorumluluğunuzdadır.
+- Sorular ve detalı sınav yönergesi "Sınav Dosyaları" bir klasörü ile teslim edilecek ve "1234_ayhan_sarp_ozbek" klasörü şeklinde teslim alınacaktır.
 
 
 # Sınav uygulaması
@@ -10,7 +11,10 @@
 - Sınavda hem açık uçlu klasik sorular hem de verilen bir problemin çözümüne yönelik kod yazmanızı gerektirecek sorular bulunacaktır.
 - Sınav dokümanı Notebook(.ipynb uzantılı) dosyası şeklinde olacak ve bu şekilde teslim alınacaktır. Sorularda istenen şeylere göre .py uzantılı ayrı dosyalar da oluşturmanız gerekebilir. İki tip dosya türü (.py ve .ipynb) ile de çalılabilmeniz gerekmektedir.
 - Sınav süresince programlarda oluşabilecek sıkıntılara yönelik VS Code ve Jupyter Notebook(Anaconda Navigator ile beraber) ikisini de kullanabiliyor olmanız sizin için faydalı olur. 
-- Sınav esnasında oluşturacağınız dosyaları tek bir klasör içine atıp zipleyerek teslim edeceksiniz. Dosya adı Numara_ad_soyad şeklinde olacaktır. 
+- Vs Code ile çalışırken
+    - .ipynb dokumanları işlerken çekirdek(kernel) hatası olabilmekte. Böyle bir durumda yeni bir çekirdek seçmeniz gerekmektedir.
+    - Çalışma alanı üzerinde çalışma (Klasör Aç) durumuna dikkat etmeniz gerekmektedir.
+- Sınav esnasında oluşturacağınız dosyaları tek bir klasör içinde teslim edeceksiniz. Dosya adı Numara_ad_soyad şeklinde olacaktır. 
     - Örneğin 1234 numaralı Ayhan Sarp Özbek isimli bir öğrencinin klasörü 1234_ayhan_sarp_ozbek şeklinde olacaktır.  
     - Dosya ve klasör isimlendirmesinde Türkçe karakter ve büyük harf kullanılmayacaktır.  
 
