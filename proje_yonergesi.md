@@ -21,7 +21,7 @@ Kodlama yaparken yapay zeka araçları kullanabilirsiniz fakat projede kopyala y
 - Fonksiyonlar: Tekrar eden kod bloklarını önlemek için fonksiyonlar tanımlayın.
 - Veri Yönetimi: Veri tabanı kullanarak veriler ve işlem kayıtları tutulmalıdır.
 - Modüler yapı: Proje çok uzun dosyalar içermemeli. Bunun için modüller oluşturulmalı ve buradaki işleyiş bir readme dosyası ile açıklanmalıdır.
-# Program işleyişi
+- Program işleyişi
 - Program çalıştığında ekrana programın tanıtım yazısı gelmeli.
   -  Tanıtımın kullanıcı girişi ile kullanılabilmeli.
   -  İstenirse yeni kullanıcı oluşturulabilmeli.
@@ -32,8 +32,8 @@ Kodlama yaparken yapay zeka araçları kullanabilirsiniz fakat projede kopyala y
 - Giriş yapıldıktan sonra yapılabilecek işlemler listelenmeli.
 - Yapılan tüm işlemlerin kaydı tutulmalı.
 - Kullanıcılar sistemden kendilerine özel raporlar alabilmeli.
-- Yöneticiler herhangi bir kullanıcıya ait işlem kaydını çıktı olarak alabilmeli.
-Grup çalışması
+- Yöneticiler herhangi bir kullanıcıya ait işlem kaydını çıktı olarak alabilmeli.  
+## Grup çalışması
 Grup çalışması yapacakların aşağıdaki kriterlerin 2 kişilik bir grup için 2 tanesi 3 kişilik bir grup için 3 tanesini projesinde bulundurması gerekmektedir.
 -  Veri tabanı işlemlerini özel bir veri tabanı sınıfı üzerinden yapmak.
 - Sqlalchemy kütüphanesinin kullanmak.
