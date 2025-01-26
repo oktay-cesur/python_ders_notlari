@@ -23,12 +23,12 @@ Kodlama yaparken yapay zeka araçları kullanabilirsiniz fakat projede kopyala y
 - Modüler yapı: Proje çok uzun dosyalar içermemeli. Bunun için modüller oluşturulmalı ve buradaki işleyiş bir readme dosyası ile açıklanmalıdır.
 # Program işleyişi
 - Program çalıştığında ekrana programın tanıtım yazısı gelmeli.
- -  Tanıtımın kullanıcı girişi ile kullanılabilmeli.
- -  İstenirse yeni kullanıcı oluşturulabilmeli.
- -  En az bir yönetici ve bir standart kullanıcı tipi olmalı.
- -  Yönetici (admin) önceden belirli olmalı.
- -  Her bir kullanıcı tipinin sistemdeki yetkileri ve gördükleri ekranlar farklı olmalı.
- -  Kullanıcı hesapları ilgili kullanıcı tipine ait birer nesne olarak oluşturulmalı. Kullanıcı tipine göre özel işlemler bu kullanıcı sınıfının içinde fonksiyon olarak tanımlanmalı ve kodlama esnasında bu fonksiyon ile çağrılmalı.
+  -  Tanıtımın kullanıcı girişi ile kullanılabilmeli.
+  -  İstenirse yeni kullanıcı oluşturulabilmeli.
+  -  En az bir yönetici ve bir standart kullanıcı tipi olmalı.
+  -  Yönetici (admin) önceden belirli olmalı.
+  -  Her bir kullanıcı tipinin sistemdeki yetkileri ve gördükleri ekranlar farklı olmalı.
+  -  Kullanıcı hesapları ilgili kullanıcı tipine ait birer nesne olarak oluşturulmalı. Kullanıcı tipine göre özel işlemler bu kullanıcı sınıfının içinde fonksiyon olarak tanımlanmalı ve kodlama esnasında bu fonksiyon ile çağrılmalı.
 - Giriş yapıldıktan sonra yapılabilecek işlemler listelenmeli.
 - Yapılan tüm işlemlerin kaydı tutulmalı.
 - Kullanıcılar sistemden kendilerine özel raporlar alabilmeli.
